@@ -22,4 +22,4 @@ Once the requirements above are fulfilled, run the following command :
 
 `apex invoke golangHello`
 
-or use the following PHP script (coming soon)
+or use the following [PHP script](https://github.com/mehdisbys/aws-lambda-currency-php-client)
