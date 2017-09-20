@@ -14,7 +14,7 @@ I have written this code to try AWS Lambda capabilities using Golang. This code 
 - Have an account on AWS 
 - Setup an IAM role
 - Configure the credentials on your local machine
-- Get a free API key from [currencylayer.com](currencylayer.com) and put in an .env with key CURRENCY_API_KEY
+- Get a free API key from [currencylayer.com](http://currencylayer.com) and put in an .env with key CURRENCY_API_KEY
 
 ### Try it
 
